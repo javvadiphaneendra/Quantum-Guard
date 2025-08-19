@@ -1,0 +1,6 @@
+Alice Bits,1,0,0,1,1,0,0,1,1,1,0,1,0,0,0,1
+Alice Bases,Z,X,X,X,X,Z,Z,X,X,X,Z,X,X,Z,Z,X
+Bob Bases,X,X,Z,Z,X,X,Z,X,Z,Z,Z,X,Z,Z,Z,X
+Bob Bits,0,0,1,0,1,0,0,1,0,1,0,1,1,0,0,1
+Sifted Key,0,1,0,1,0,1,0,0,1
+Discarded Indices,0,2,3,5,8,9,12

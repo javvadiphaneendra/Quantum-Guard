@@ -1,0 +1,170 @@
+[2025-08-17 23:26:36] === CLEAN CHANNEL (No Eve) ===
+[2025-08-17 23:26:36] Sifted length: 0
+[2025-08-17 23:26:36] Expected QBER ~ 0 (aside from simulator noise)
+[2025-08-17 23:26:36] Key saved: keys/clean_key_20250817_232636.txt
+[2025-08-17 23:29:49] === CLEAN CHANNEL (No Eve) ===
+[2025-08-17 23:29:49] Sifted length: 0
+[2025-08-17 23:29:49] Expected QBER ~ 0 (aside from simulator noise)
+[2025-08-17 23:29:49] Key saved: keys/clean_key_20250817_232949.txt
+[2025-08-17 23:30:59] === CLEAN CHANNEL (No Eve) ===
+[2025-08-17 23:30:59] Sifted length: 0
+[2025-08-17 23:30:59] Expected QBER ~ 0 (aside from simulator noise)
+[2025-08-17 23:30:59] Key saved: keys/clean_key_20250817_233059.txt
+[2025-08-17 23:31:59] === CLEAN CHANNEL (No Eve) ===
+[2025-08-17 23:31:59] Sifted length: 0
+[2025-08-17 23:31:59] Expected QBER ~ 0 (aside from simulator noise)
+[2025-08-17 23:31:59] Key saved: keys/clean_key_20250817_233159.txt
+[2025-08-17 23:34:15] === CLEAN CHANNEL (No Eve) ===
+[2025-08-17 23:37:09] === CLEAN CHANNEL (No Eve) ===
+[2025-08-17 23:38:38] === CLEAN CHANNEL (No Eve) ===
+[2025-08-17 23:38:38] Sifted length: 0
+[2025-08-17 23:39:40] === CLEAN CHANNEL (No Eve) ===
+[2025-08-17 23:39:40] Sifted length: 0
+[2025-08-17 23:39:40] Key saved: keys/clean_key_20250817_233940.txt
+[2025-08-17 23:39:40] 
+=== WITH EVE (Intercept-Resend) ===
+[2025-08-17 23:39:40] Sifted length: 47
+[2025-08-17 23:39:40] QBER: 0.085
+[2025-08-17 23:39:40] Eavesdropping Detected? NO
+[2025-08-17 23:39:40] Key saved: keys/eve_key_20250817_233940.txt
+[2025-08-17 23:39:40] === CLEAN CHANNEL (No Eve) ===
+[2025-08-17 23:39:40] Sifted length: 0
+[2025-08-17 23:39:40] Expected QBER ~ 0 (aside from simulator noise)
+[2025-08-17 23:39:40] Key saved: keys/clean_key_20250817_233940.txt
+[2025-08-17 23:41:08] === CLEAN CHANNEL (No Eve) ===
+[2025-08-17 23:41:08] Sifted length: 0
+[2025-08-17 23:41:08] Key saved: keys/clean_key_20250817_234108.txt
+[2025-08-17 23:41:08] 
+=== WITH EVE (Intercept-Resend) ===
+[2025-08-17 23:41:08] Sifted length: 48
+[2025-08-17 23:41:08] QBER: 0.292
+[2025-08-17 23:41:08] Eavesdropping Detected? YES
+[2025-08-17 23:41:08] Key saved: keys/eve_key_20250817_234108.txt
+[2025-08-17 23:41:08] === CLEAN CHANNEL (No Eve) ===
+[2025-08-17 23:41:08] Sifted length: 0
+[2025-08-17 23:41:08] Expected QBER ~ 0 (aside from simulator noise)
+[2025-08-17 23:41:08] Key saved: keys/clean_key_20250817_234108.txt
+[2025-08-17 23:57:24] === CLEAN CHANNEL (No Eve) ===
+[2025-08-17 23:57:24] Sifted length: 2
+[2025-08-17 23:57:24] Expected QBER ~ 0 (aside from simulator noise)
+[2025-08-17 23:57:24] Key saved: keys/clean_key_20250817_235724.txt
+[2025-08-18 00:00:58] === CLEAN CHANNEL (No Eve) ===
+[2025-08-18 00:00:58] Sifted length: 2
+[2025-08-18 00:00:58] Expected QBER ~ 0 (aside from simulator noise)
+[2025-08-18 00:00:58] Key saved: keys/clean_key_20250818_000058.txt
+[2025-08-18 00:06:24] === CLEAN CHANNEL (No Eve) ===
+[2025-08-18 00:06:24] Sifted length: 2
+[2025-08-18 00:06:24] Expected QBER ~ 0 (aside from simulator noise)
+[2025-08-18 00:06:24] Key saved: keys/clean_key_20250818_000624.txt
+[2025-08-18 00:08:32] === CLEAN CHANNEL (No Eve) ===
+[2025-08-18 00:08:32] Sifted length: 2
+[2025-08-18 00:08:32] Expected QBER ~ 0 (aside from simulator noise)
+[2025-08-18 00:08:32] Key saved: keys/clean_key_20250818_000832.txt
+[2025-08-18 00:09:26] === CLEAN CHANNEL (No Eve) ===
+[2025-08-18 00:09:26] Sifted length: 2
+[2025-08-18 00:09:26] Expected QBER ~ 0 (aside from simulator noise)
+[2025-08-18 00:09:26] Key saved: keys/clean_key_20250818_000926.txt
+[2025-08-18 09:05:48] === CLEAN CHANNEL (No Eve) ===
+[2025-08-18 09:05:48] Sifted length: 2
+[2025-08-18 09:05:48] Expected QBER ~ 0 (aside from simulator noise)
+[2025-08-18 09:05:48] Key saved: keys/clean_key_20250818_090548.txt
+[2025-08-18 19:20:22] === CLEAN CHANNEL (No Eve) ===
+[2025-08-18 19:20:22] Sifted length: 41
+[2025-08-18 19:20:22] Expected QBER ~ 0 (aside from simulator noise)
+[2025-08-18 19:20:22] Key saved: keys/clean_key_20250818_192022.txt
+[2025-08-18 19:20:24] 
+=== WITH EVE (Intercept-Resend) ===
+[2025-08-18 19:20:24] Sifted length: 52
+[2025-08-18 19:20:24] QBER: 0.231
+[2025-08-18 19:20:24] Eavesdropping Detected? YES
+[2025-08-18 19:20:24] Key saved: keys/eve_key_20250818_192024.txt
+[2025-08-18 23:01:00] === CLEAN CHANNEL (No Eve) ===
+[2025-08-18 23:01:00] Sifted length: 48
+[2025-08-18 23:01:00] Expected QBER ~ 0 (aside from simulator noise)
+[2025-08-18 23:01:00] Key saved: keys/clean_key_20250818_230100.txt
+[2025-08-18 23:01:02] 
+=== WITH EVE (Intercept-Resend) ===
+[2025-08-18 23:01:02] Sifted length: 48
+[2025-08-18 23:01:02] QBER: 0.271
+[2025-08-18 23:01:02] Eavesdropping Detected? YES
+[2025-08-18 23:01:02] Key saved: keys/eve_key_20250818_230102.txt
+[2025-08-18 23:04:51] === CLEAN CHANNEL (No Eve) ===
+[2025-08-18 23:04:51] Sifted length: 55
+[2025-08-18 23:04:51] Expected QBER ~ 0 (aside from simulator noise)
+[2025-08-18 23:04:51] Key saved: keys/clean_key_20250818_230451.txt
+[2025-08-18 23:04:52] 
+=== WITH EVE (Intercept-Resend) ===
+[2025-08-18 23:04:52] Sifted length: 52
+[2025-08-18 23:04:52] QBER: 0.308
+[2025-08-18 23:04:52] Eavesdropping Detected? YES
+[2025-08-18 23:04:52] Key saved: keys/eve_key_20250818_230452.txt
+[2025-08-18 23:05:18] === CLEAN CHANNEL (No Eve) ===
+[2025-08-18 23:05:18] Sifted length: 46
+[2025-08-18 23:05:18] Expected QBER ~ 0 (aside from simulator noise)
+[2025-08-18 23:05:18] Key saved: keys/clean_key_20250818_230518.txt
+[2025-08-18 23:05:19] 
+=== WITH EVE (Intercept-Resend) ===
+[2025-08-18 23:05:19] Sifted length: 46
+[2025-08-18 23:05:19] QBER: 0.217
+[2025-08-18 23:05:19] Eavesdropping Detected? YES
+[2025-08-18 23:05:19] Key saved: keys/eve_key_20250818_230519.txt
+[2025-08-18 23:10:29] === CLEAN CHANNEL (No Eve) ===
+[2025-08-18 23:10:29] Sifted length: 45
+[2025-08-18 23:10:29] Expected QBER ~ 0 (aside from simulator noise)
+[2025-08-18 23:10:29] Key saved: keys/clean_key_20250818_231029.txt
+[2025-08-18 23:10:29] 
+=== WITH EVE (Intercept-Resend) ===
+[2025-08-18 23:10:29] Sifted length: 53
+[2025-08-18 23:10:29] QBER: 0.340
+[2025-08-18 23:10:29] Eavesdropping Detected? YES
+[2025-08-18 23:10:29] Key saved: keys/eve_key_20250818_231029.txt
+[2025-08-18 23:12:08] === CLEAN CHANNEL (No Eve) ===
+[2025-08-18 23:12:08] Sifted length: 50
+[2025-08-18 23:12:08] Expected QBER ~ 0 (aside from simulator noise)
+[2025-08-18 23:12:08] Key saved: keys/clean_key_20250818_231208.txt
+[2025-08-18 23:12:08] 
+=== WITH EVE (Intercept-Resend) ===
+[2025-08-18 23:12:08] Sifted length: 55
+[2025-08-18 23:12:08] QBER: 0.309
+[2025-08-18 23:12:08] Eavesdropping Detected? YES
+[2025-08-18 23:12:08] Key saved: keys/eve_key_20250818_231208.txt
+[2025-08-18 23:12:31] === CLEAN CHANNEL (No Eve) ===
+[2025-08-18 23:12:31] Sifted length: 48
+[2025-08-18 23:12:31] Expected QBER ~ 0 (aside from simulator noise)
+[2025-08-18 23:12:31] Key saved: keys/clean_key_20250818_231231.txt
+[2025-08-18 23:12:31] 
+=== WITH EVE (Intercept-Resend) ===
+[2025-08-18 23:12:31] Sifted length: 56
+[2025-08-18 23:12:31] QBER: 0.232
+[2025-08-18 23:12:31] Eavesdropping Detected? YES
+[2025-08-18 23:12:31] Key saved: keys/eve_key_20250818_231231.txt
+[2025-08-18 23:26:05] === CLEAN CHANNEL (No Eve) ===
+[2025-08-18 23:26:05] Sifted length: 47
+[2025-08-18 23:26:05] Expected QBER ~ 0 (aside from simulator noise)
+[2025-08-18 23:26:05] Key saved: keys/clean_key_20250818_232605.txt
+[2025-08-18 23:26:05] 
+=== WITH EVE (Intercept-Resend) ===
+[2025-08-18 23:26:05] Sifted length: 47
+[2025-08-18 23:26:05] QBER: 0.255
+[2025-08-18 23:26:05] Eavesdropping Detected? YES
+[2025-08-18 23:26:05] Key saved: keys/eve_key_20250818_232605.txt
+[2025-08-19 13:32:27] === CLEAN CHANNEL (No Eve) ===
+[2025-08-19 13:32:27] Sifted length: 47
+[2025-08-19 13:32:27] Expected QBER ~ 0 (aside from simulator noise)
+[2025-08-19 13:32:27] Key saved: keys/clean_key_20250819_133227.txt
+[2025-08-19 13:32:28] 
+=== WITH EVE (Intercept-Resend) ===
+[2025-08-19 13:32:28] Sifted length: 45
+[2025-08-19 13:32:28] QBER: 0.133
+[2025-08-19 13:32:28] Eavesdropping Detected? YES
+[2025-08-19 13:32:28] Key saved: keys/eve_key_20250819_133228.txt
+[2025-08-19 13:35:50] === CLEAN CHANNEL (No Eve) ===
+[2025-08-19 13:35:50] Sifted length: 51
+[2025-08-19 13:35:50] Expected QBER ~ 0 (aside from simulator noise)
+[2025-08-19 13:35:50] Key saved: keys/clean_key_20250819_133550.txt
+[2025-08-19 13:35:51] 
+=== WITH EVE (Intercept-Resend) ===
+[2025-08-19 13:35:51] Sifted length: 59
+[2025-08-19 13:35:51] QBER: 0.186
+[2025-08-19 13:35:51] Eavesdropping Detected? YES
+[2025-08-19 13:35:51] Key saved: keys/eve_key_20250819_133551.txt
