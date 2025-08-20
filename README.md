@@ -213,4 +213,4 @@ animate_bb84(qber, save=True)
 
 ## License
 
-MIT License © \[Your Name]
+MIT License © \[Javvadi Phaneendra]
