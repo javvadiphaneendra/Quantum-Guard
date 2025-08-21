@@ -88,7 +88,7 @@ QuantumGuard/
 ### bb84\_eve.py
 
 ```python
-# Code for BB84WithEve class here (full corrected version)
+# Code for BB84WithEve class here (Full corrected version)
 ```
 
 ### eve.py
